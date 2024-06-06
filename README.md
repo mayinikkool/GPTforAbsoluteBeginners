@@ -16,7 +16,8 @@ Step 1 -
     Number of cores - 4
     RAM - 32GB
     Disk - 100GB
-    Internet access - Direct or via Proxy, to install the tools and to download the LLM locally. (Internet is not used while Inferencing on LLM)
+    Internet access - Direct or via Proxy to install the tools and to download the LLM locally. 
+    (Internet is not used while Inferencing on LLM)
 
 Step 2 - 
   Update the sytem
