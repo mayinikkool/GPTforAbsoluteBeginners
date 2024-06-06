@@ -1,8 +1,8 @@
-# Inferencing on LLM for Absolute Biginners in 12 Steps
+# Inferencing on LLM for Absolute Beginners in 12 Steps
 
-Simple Inferencing on Mistral 7B Model LLM, wchih uses only CPU & using Python Scripts. 
+Simple Inferencing on Mistral 7B Model LLM, which uses only CPU & using Python Scripts. 
 
-The procedure here helps a beginner to understand basics of inferecning on a pre-trained LLM.
+The procedure here helps a beginner to understand basics of inferencing on a pre-trained LLM.
 
 There is no GPU configuration. LLM loads to Memory (RAM) of server and runs from it. 
 
@@ -10,7 +10,7 @@ There is no GPU configuration. LLM loads to Memory (RAM) of server and runs from
 
 Step 1 -
 
-  Setup a Ubuntu Server (A physical server or a Virtual Machine)
+  Setup an Ubuntu Server (A physical server or a Virtual Machine)
   
     Ubuntu Version - 22.04 LTS
     Number of cores - 4
@@ -93,7 +93,7 @@ Step 10 -
     (Provide the token obtained from huggingface.com account)
 
 Step 11 - 
-  Run the Dowload Script
+  Run the Download Script
 
     python download_mistral_7b.py
 
